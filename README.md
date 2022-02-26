@@ -14,7 +14,7 @@ I was able to filter categories into a parent category and their subcategories. 
 ### Analysis of Outcomes Based on Launch Date
 After filtering the data to theater ouctomes by the month of year the kickstarter campaign was launched, the best months to launch are between May and July.  During these months over 450 campaigns were launched and nearly 300 were successful.  May had the most campaigns launched (166) with the most success (111).  On the other end of the comparison, the month of December saw only 50% of the campaigns to be successful.   
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/96890065/154868187-67bc7525-6aee-4f20-8eaa-86903f716e1e.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/96890065/155855346-4bb4376d-a340-4b6d-8d31-cc7d05c7c6c8.png)
 
 ### Analysis of Outcomes Based on Goals
 The kickstarter goals were broken down in 12 ranges.  The first range was less than $1000, the next 10 ranges were in increments of approximately $4999, with the final range over $50,000.  The data is broken down into quantitative data as well as percentages fo the total projects launched in those goal ranges.  The most successfull campagins were those that set a goal under $5000. In the range of less than $1000, 76% of the projects that set this goal, met their goal.  The campaigns in the range of $1000 - $4999, had a 73% successful range.  The outcomes also showed that the projects that met their goal, saw no cancelation of the project. 
